@@ -16,7 +16,7 @@ That said, it's easy enough to change this plot to be linear. I included an exam
 
 * Where is my favorite country?
 
-I didn't want to graph a hundred countries in one plot, that would be too messy. Feel free to make your own copy of my code (by forking from the [Github Repo](https://github.com/JeroenKools/covid19), or [opening it in Google Colab](https://colab.research.google.com/github/JeroenKools/covid19/blob/master/COVID-19.ipynb), and change the list of countries to include your own.
+I didn't want to graph a hundred countries in one plot, that would be too messy. Feel free to make your own copy of my code (by forking from the [Github Repo](https://github.com/JeroenKools/covid19), or [opening it in Google Colab](https://colab.research.google.com/github/swampcat/covid19/blob/reduce/COVID-19.ipynb), and change the list of countries to include your own.
 
 * What criteria did you use to select the countries shown?
 
